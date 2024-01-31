@@ -42398,31 +42398,17 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 80px;
+  min-height: 130px;
 }
 
 .u-header .u-menu-1 {
-  margin: 22px auto;
-}
-
-.u-header .u-nav-1 {
-  font-weight: 400;
-  font-size: 1rem;
-  text-transform: uppercase;
+  margin-bottom: 60px;
 }
 
 .u-header .u-nav-2 {
   font-size: 1.25rem;
 }
-@media (max-width: 1199px) {
-  .u-header .u-menu-1 {
-    width: auto;
-  }
 
-  .u-header .u-nav-1 {
-    letter-spacing: normal;
-  }
-}
 
 
 
